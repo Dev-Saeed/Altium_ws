@@ -1,0 +1,12 @@
+Added Component: Designator=C?(CC1206)
+Added Component: Designator=U?(LQFP64-10x10mm)
+Added Component: Designator=U?(LQFP64-10x10mm)
+Added Component: Designator=U?(LQFP64-10x10mm)
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-18
+Added Member To Class: ClassName=Sheet1 Member=Component C? CAP POL
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F373Rxx
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F373Rxx
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F373Rxx
